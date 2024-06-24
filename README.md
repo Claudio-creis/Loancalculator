@@ -1,4 +1,4 @@
-# Loan calculator (aimed at low income students in developed countries)
+# Loan calculator (aimed at low income students in western countries)
 This is script to run a financial calculator in a local hmtl file.
 
 You input different variables and change the sliders to adapt to your specific situation.
