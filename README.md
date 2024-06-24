@@ -5,4 +5,6 @@ You input different variables and change the sliders to adapt to your specific s
 
 You are able to see a breakdown of your expenses, remaining income, loan repayment and other variables.
 
-Make sure you do not run it multiple times as this will slow down the efficiency of the calculations. It
+There are three graph, showing 1 the schedule of your repayment, 2 your salary breakdown and finally the amount of interest on the loan until it has been repayed.
+
+Make sure you do not run it multiple times as this will slow down the efficiency of the calculations.
